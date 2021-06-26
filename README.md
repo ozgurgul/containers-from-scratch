@@ -9,6 +9,17 @@ Note that the Go code uses some syscall definitions that are only available when
 # container-from-scratch-go
 Container implementation from scratch based on "lizrice/containers-from-scratch"
 
+# Microscanner/Trivy 
+A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI
+https://github.com/aquasecurity/trivy
+
+Download slides and read the full abstract here:
+https://gotoams.nl/2018/sessions/429
+
+RECOMMENDED BOOKS
+Liz Rice • Container Security • https://amzn.to/3oU4iJe
+Liz Rice • Kubernetes Security • [https://www.oreilly.com/library/view/...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDZLLVRHNDRmQzFjVDdhYkNXUzZ6TVY1Q1VyZ3xBQ3Jtc0trTWN1YWJObkY0MzVNNHB4cjVkeG5HRlNrMWZWNFdxYUZNSXJHcFQzOVJSMU5mSGpHODJjZ1BlQzZGWGw1Nkp3c1ZkVWVxd2djRExNSjI4Qk1sYWdDQkhVbGQzWUVBSmhTVEM5cnAyVTFLWVNrRWpjNA&q=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Fkubernetes-security%2F9781492039075)
+
 ---
 
 ### Video Reference ##
